@@ -59,3 +59,10 @@ body {
 	left: 520px;
 }
 
+.how-to p {
+	width: 50%;
+	color: black;
+	font-size: 24px;
+	line-height: 45px;
+}
+
