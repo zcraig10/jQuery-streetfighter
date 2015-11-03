@@ -18,7 +18,7 @@ body {
 	height: 494px;
 }
 
-.ryu-ready, .ryu-still, .ryu-throwing {
+.ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
 	width: 659px;
 	height: 494px;
 }
@@ -65,4 +65,3 @@ body {
 	font-size: 24px;
 	line-height: 45px;
 }
-
