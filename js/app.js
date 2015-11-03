@@ -34,6 +34,13 @@ $(document).ready(function() {
 			$(".ryu-ready").hide();
 			$(".ryu-cool").show();
 		}
+	})
+	$("body").keyup(function(event) {
+		if(event.which == 88) {
+			$(".ryu-still").show();
+			$(".ryu-ready").hide();
+			$(".ryu-cool").hide();
+		}
 	});
 });
 
