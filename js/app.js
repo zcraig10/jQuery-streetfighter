@@ -2,6 +2,7 @@ $(document).ready(function() {
 	$(".ryu").mouseenter(function() {
 		$(".ryu-still").hide();
 		$(".ryu-ready").show();
+		$(".ryu-cool").hide();
 	})
 	.mouseleave(function() {
 		$(".ryu-ready").hide();
