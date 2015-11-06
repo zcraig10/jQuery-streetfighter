@@ -64,11 +64,21 @@ body {
 	font-size: 24px;
 	line-height: 45px;
 	font-family: comical;
-	width: 150px;
 	display: inline-block;
 }
 
+.click {
+	width: 174px;
+	margin-left: -3em;
+	padding-top: 2em;
+}
 
+.hold {
+	width: 234px;
+	margin-right: 7em;
+	padding-top: 8em;
+	float: right;
+}
 
 /*download comical font*/
 
